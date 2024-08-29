@@ -1,4 +1,4 @@
-### Hi there, I'm [Anmol Tomar]👋
+### Hi there, I'm Anmol Tomar👋
 
 I completed my Btech in Computer Science from [Lovely Professional University](https://lpu.in), India. Apart from that, I am a seasonal Software Engineer who loves writing articles (on Software Engineering, Problem solving, Productivity and Coding Tips) and contributing to open source.
 
